@@ -1,0 +1,14 @@
+BASE DIDÁTICA - PEDRAS PRECIOSAS E GEMAS
+
+Este arquivo representa um texto simples, sem estrutura tabular.
+
+A escala de Mohs é usada para comparar a resistência de minerais a riscos.
+Um valor maior indica maior resistência ao risco, mas não significa necessariamente
+que o material seja mais resistente a impactos.
+
+Nesta base há minerais pertencentes aos mesmos grupos. Rubi e safira pertencem
+ao coríndon. Esmeralda e água-marinha pertencem ao berilo. A ametista pertence
+ao grupo do quartzo.
+
+Na próxima etapa do curso, esses textos poderão ser transformados em embeddings
+para permitir busca por significado.
